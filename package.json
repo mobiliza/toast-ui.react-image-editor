@@ -21,6 +21,9 @@
   "repository": "https://github.com/felipeferreiraads/toast-ui.react-image-editor.git",
   "license": "MIT",
   "browserslist": "last 2 versions, ie 9",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "peerDependencies": {
     "react": "^16.0.0"
   },
