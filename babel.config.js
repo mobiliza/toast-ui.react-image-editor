@@ -9,7 +9,7 @@ module.exports = (api) => {
           modules: false,
           useBuiltIns: 'entry'
         }
-      ],
+      ], 
       '@babel/preset-react'
     ],
     plugins: [
