@@ -1,6 +1,6 @@
 {
   "name": "@devmobiliza/toast-ui.react-image-editor",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "React wrapper component for tui.imageEditor",
   "main": "dist/toastui-react-image-editor.js",
   "files": [
